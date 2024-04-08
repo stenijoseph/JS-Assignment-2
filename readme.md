@@ -6,15 +6,16 @@
 ## d.variable cannot start with a number.
 ## e.cannot use keywords as variables.
 
-## 2.2.	 Create a greeting alert (use => prompt, message, alert)
+## 2. Create a greeting alert (use => prompt, message, alert)
  
  ##  Ans:let a= prompt ("enter your name");
  ## alert("good morning "+a)
+ 
  ![screenshot](./ss1.png)
  ![screensho](./ss2.png)
 
 
-## 3.3.	 Write some code so that the values of the below variables switch around  Let fish = “fly”, let bird = “swim”. Switch the value so that fish holds the value “swim” and the variable bird holds the value “fly”
+## 3. Write some code so that the values of the below variables switch around  Let fish = “fly”, let bird = “swim”. Switch the value so that fish holds the value “swim” and the variable bird holds the value “fly”
 
 ## Ans: let fish = "fly"
 ## let bird = "swim"
